@@ -2,7 +2,7 @@
 
 I'm a software developer who loves building things for the web. My focus is on crafting scalable backend systems and robust APIs that can handle serious traffic. 🚀
 
-- 🔭 I’m currently engineering real-time features for high-traffic gaming platforms.
+- 🔭 I’m currently building features for modern intranet software at **Simpplr**.
 - 🌱 Always learning more about **Cloud-Native Development** and **Event-Driven Architecture**.
 - 💬 Let's connect and talk about **Node.js, System Design, or Microservices**!
 
