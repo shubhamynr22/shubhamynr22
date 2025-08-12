@@ -1,35 +1,30 @@
-### Hey, I'm Shubham Gupta 👋
+# Hi, I'm Shubham! 👋
 
-I'm a backend developer who loves building fast, scalable, and reliable systems. I specialize in the **Node.js** ecosystem and thrive on turning complex problems into elegant, efficient software.
+I'm a software developer who loves building things for the web. My focus is on crafting scalable backend systems and robust APIs that can handle serious traffic. 🚀
 
-<a href="https://www.linkedin.com/in/shubhamynr22/"><img src="https://img.shields.io/badge/Connect_with_me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+- 🔭 I’m currently engineering real-time features for high-traffic gaming platforms.
+- 🌱 Always learning more about **Cloud-Native Development** and **Event-Driven Architecture**.
+- 💬 Let's connect and talk about **Node.js, System Design, or Microservices**!
 
----
-
-🚀 **What I'm Currently Up To**
-
-* Engineering real-time features for high-traffic gaming platforms at **NE Group**.
-* Diving deeper into **Event-Driven Architecture** and **Cloud-Native** patterns.
-* Exploring the world of **AI** and its applications in modern backend systems.
-
----
-
-### 🛠️ My Tech Toolbox
-
-| Area                 | Technologies                                                                                             |
-| -------------------- | -------------------------------------------------------------------------------------------------------- |
-| **Languages** | `JavaScript` `TypeScript` `SQL` `Java` `Solidity`                                                        |
-| **Backend** | `Node.js` `Nest.js` `Express.js` `GraphQL` `WebSockets`                                                  |
-| **Databases & Data** | `PostgreSQL` `MongoDB` `Redis` `Kafka` `RabbitMQ`                                                        |
-| **Cloud & DevOps** | `AWS` `Docker` `Kubernetes` `Jenkins` `GitHub Actions`                                                     |
-| **Tools & Testing** | `Git` `Hardhat` `Ethers.js` `Mocha.js` `Chai.js`                                                           |
+<p align="left">
+  <a href="https://www.linkedin.com/in/shubhamynr22/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="mailto:shubhamynr22@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail"/>
+  </a>
+</p>
 
 ---
 
-### 💡 Let's Connect
+### My Digital Toolbox 🛠️
 
-I'm always open to discussing new projects, creative ideas, or exciting opportunities.
+Here are some of the technologies I enjoy working with:
 
-💬 **Ask me about:** Backend Development, System Design, Microservices, or anything Node.js!
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,java,nodejs,express,nestjs,react,postgres,mongodb,redis,docker,kubernetes,aws,kafka,rabbitmq,git,graphql&perline=9" />
+  </a>
+</p>
 
-📫 **Email:** [shubhamynr22@gmail.com](mailto:shubhamynr22@gmail.com)
+---
